@@ -16,16 +16,16 @@ const Welcome = (props: Props) => {
                     <div className="mx-auto w-full gap-10 flex items-center max-w-7xl px-5 py-16 md:px-10 md:py-24 lg:py-32">
                         <div className="mx-auto mb-12 w-full max-w-3xl md:mb-16 lg:mb-20">
                             <h1 className="mb-4 text-4xl font-bold md:text-6xl">
-                                Situs Top Up Game yang Anda Inginkan Tanpa{" "}
+                                Tempat membeli kostum karakter terbaik dan{" "}
                                 <span className="bg-[url('https://assets.website-files.com/63904f663019b0d8edf8d57c/6390526ac2a607693620c97b_Rectangle%2010.svg')] bg-cover bg-center px-4 text-white">
-                                    Ribet
+                                    Terjamin
                                 </span>
                                 .
                             </h1>
-                            <p className="mx-auto mb-5  text-xl text-[#636262] lg:mb-8">
-                                Top up game favorit Anda dengan mudah dan cepat.
-                                Dapatkan penawaran terbaik dan harga terjangkau
-                                hanya di sini.
+                            <p className="mx-auto mb-5  text-xl text-[#636262] lg:mb-8"> 
+                                Ayo mari penuhi keinginan Anda untuk bermain karakter sekarang.
+                                Dapatkan kostum favorit Anda sekarang
+                                dengan harga terjangkau.
                             </p>
 
                             <div className="flex justify-start">
@@ -62,7 +62,7 @@ const Welcome = (props: Props) => {
                 <h2 className="text-4xl font-bold text-center">
                     {" "}
                     <span className="bg-[url('https://assets.website-files.com/63904f663019b0d8edf8d57c/6390526ac2a607693620c97b_Rectangle%2010.svg')] bg-cover bg-center py-4 px-8 text-white">
-                        Top Up dan Joki
+                        Kostum Karakter
                     </span>{" "}
                     Terbaik untuk Anda
                 </h2>
@@ -70,22 +70,13 @@ const Welcome = (props: Props) => {
                     <div className=" flex flex-col gap-4 max-w-lg w-1/2">
                         <img src={Topup} className="rounded-xl h-96" alt="" />
                         <p className="text-gray-700 text-lg  dark:text-gray-300 mb-2">
-                            Nikmati kemudahan dan kecepatan dalam melakukan top
-                            up game favorit Anda dengan layanan terbaik dari
-                            kami. Kami menyediakan berbagai pilihan pembayaran
-                            yang aman dan cepat, memastikan Anda dapat segera
-                            kembali bermain tanpa hambatan.
+                        Nikmati kemudahan dan kecepatan dalam mendapatkan kostum karakter favorit Anda dengan promo terbaik dari kami. Kami menyediakan berbagai pilihan pembayaran yang aman dan cepat, memastikan Anda dapat langsung tampil stylish dan siap beraksi dalam permainan!
                         </p>
                     </div>{" "}
                     <div className=" flex flex-col gap-4 max-w-lg w-1/2">
                         <img src={Joki} className="rounded-xl h-96" alt="" />
                         <p className="text-gray-700 text-lg   dark:text-gray-300 mb-2">
-                            Butuh bantuan untuk meningkatkan peringkat atau
-                            mencapai target dalam game? Layanan joki profesional
-                            kami siap membantu Anda mencapai tujuan dengan cepat
-                            dan aman. Dengan tim yang berpengalaman dan
-                            terpercaya, kami menjamin kepuasan dan hasil terbaik
-                            untuk setiap pelanggan.
+                        Butuh kostum keren untuk meningkatkan gaya karakter Anda dalam game? Toko kostum kami siap memenuhi kebutuhan Anda dengan berbagai pilihan desain yang unik dan menarik. Dengan layanan profesional dan terpercaya, kami menjamin kualitas terbaik untuk setiap pembelian, sehingga karakter Anda selalu tampil memukau!
                         </p>
                     </div>
                 </div>{" "}
@@ -93,7 +84,7 @@ const Welcome = (props: Props) => {
             </div>
             <div className="w-full px-40 flex-col mb-20 flex">
                 <h2 className="text-4xl font-bold text-center">
-                    GAME YANG{" "}
+                    KOSTUM YANG{" "}
                     <span className="bg-[url('https://assets.website-files.com/63904f663019b0d8edf8d57c/6390526ac2a607693620c97b_Rectangle%2010.svg')] bg-cover bg-center py-2 px-4 text-white">
                         TERSEDIA
                     </span>{" "}

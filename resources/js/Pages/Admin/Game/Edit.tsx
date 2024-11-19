@@ -106,7 +106,7 @@ const Edit = ({ game }: EditProps) => {
                                     <div className="flex flex-col gap-4">
                                         <div className="flex flex-col gap-3">
                                             <Label htmlFor="name">
-                                                Nama Game
+                                                Nama Kostum
                                             </Label>
                                             <Input
                                                 type="text"

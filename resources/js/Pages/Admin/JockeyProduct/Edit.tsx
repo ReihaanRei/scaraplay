@@ -80,7 +80,7 @@ const Edit = ({ joki }: EditProps) => {
                 <DialogContent className=" z-[120] sm:max-w-[1000px] h-auto rounded-lg overflow-auto bg-background">
                     <DialogHeader>
                         <DialogTitle className="py-3 text-xl">
-                            Update data Joki
+                            Update data Sewa
                         </DialogTitle>
                     </DialogHeader>
                     <div className="mt-2">

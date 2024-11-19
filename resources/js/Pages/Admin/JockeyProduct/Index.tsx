@@ -16,8 +16,8 @@ export default function Dashboard({ jockeyProducts }: DashboardProps) {
         <>
             <Tabs defaultValue="table" className="w-full">
                 <TabsList>
-                    <TabsTrigger value="table">Data Joki</TabsTrigger>
-                    <TabsTrigger value="add">Tambah Joki</TabsTrigger>
+                    <TabsTrigger value="table">Data Sewa</TabsTrigger>
+                    <TabsTrigger value="add">Tambah Sewa</TabsTrigger>
                 </TabsList>
                 <TabsContent value="table">
                     <DataTableCustom data={jockeyProducts} columns={column} />

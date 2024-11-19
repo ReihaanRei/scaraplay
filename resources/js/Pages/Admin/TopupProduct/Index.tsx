@@ -15,8 +15,8 @@ export default function Dashboard({ topupGame }: DashboardProps) {
         <>
             <Tabs defaultValue="table" className="w-full">
                 <TabsList>
-                    <TabsTrigger value="table">Data Top Up</TabsTrigger>
-                    <TabsTrigger value="add">Tambah Top Up</TabsTrigger>
+                    <TabsTrigger value="table">Data Kostum</TabsTrigger>
+                    <TabsTrigger value="add">Tambah Kostum</TabsTrigger>
                 </TabsList>
                 <TabsContent value="table">
                     <DataTableCustom data={topupGame} columns={column} />

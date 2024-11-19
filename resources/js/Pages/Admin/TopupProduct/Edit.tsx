@@ -96,7 +96,7 @@ const Edit = ({ toptup }: EditProps) => {
                                     <div className="flex flex-col gap-4">
                                         <div className="flex flex-col gap-3">
                                             <Label htmlFor="product_name">
-                                                Nama Topup
+                                                Nama Kostum
                                             </Label>
                                             <Input
                                                 type="text"
