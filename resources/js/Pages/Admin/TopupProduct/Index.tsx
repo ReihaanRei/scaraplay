@@ -31,8 +31,8 @@ export default function Dashboard({ topupGame }: DashboardProps) {
 
 Dashboard.layout = (page: React.ReactNode) => (
     <AdminLayout
-        tittle="Manajemen Top Up"
-        description="Top Up Product Control Panel"
+        tittle="Manajemen Beli"
+        description="Beli Product Control Panel"
         head="admin"
         children={page}
     />

@@ -32,19 +32,19 @@ const SidebarAdmin = () => {
                     <SidebarItem
                         href={route("admin.game.index")}
                         icon={Gamepad2}
-                        label="Game"
+                        label="Kostum"
                         isActive={variantUrl === "/admin/game"}
                     />{" "}
                     <SidebarItem
                         href={route("admin.topup-game.index")}
                         icon={Notebook}
-                        label="Topup Game"
+                        label="Beli "
                         isActive={variantUrl === "/admin/TopupProduct"}
                     />{" "}
                     <SidebarItem
                         href={route("admin.jasa-joki.index")}
                         icon={NotepadText}
-                        label="Joki"
+                        label="Sewa"
                         isActive={variantUrl === "/admin/JockeyProduct"}
                     />{" "}
                     {/* <SidebarItem

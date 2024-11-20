@@ -15,8 +15,7 @@ const Footer = () => {
                                     </span>
                                 </Link>
                                 <p className="mb-7 text-base text-body-color dark:text-dark-6">
-                                    Top up game favorit Anda dengan mudah dan
-                                    cepat.
+                                    Kostum pakaian karakter terdetail dan termurah yang pernah ada.
                                 </p>
                                 <p className="flex items-center text-sm font-medium text-dark dark:text-white">
                                     <span className="mr-3 text-primary">

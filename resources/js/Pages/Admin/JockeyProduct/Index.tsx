@@ -32,8 +32,8 @@ export default function Dashboard({ jockeyProducts }: DashboardProps) {
 
 Dashboard.layout = (page: React.ReactNode) => (
     <AdminLayout
-        tittle="Manajemen Joki"
-        description="Joki Product Control Panel"
+        tittle="Manajemen Sewa"
+        description="Sewa Product Control Panel"
         head="joki"
         children={page}
     />

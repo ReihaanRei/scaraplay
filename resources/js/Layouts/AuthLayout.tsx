@@ -16,11 +16,7 @@ export default function AuthLayout({ children }: PropsWithChildren) {
                                 SCARA STORE
                             </h1>
                             <h2 className="text-zinc-300 text-base font-medium">
-                                Apakah Anda mencari tempat untuk meningkatkan
-                                pengalaman gaming Anda? Selamat datang di
-                                'Gaming Hub', platform terbaik untuk top up game
-                                dan jasa joki profesional yang siap memenuhi
-                                semua kebutuhan gaming Anda!
+                            Ingin tampil beda dan memukau? Selamat datang di 'Fashion Hub', tempat terbaik untuk mendapatkan kostum unik, langka, dan eksklusif yang dirancang khusus untuk berbagai gaya dan acara! Kami menyediakan beragam pilihan kostum berkualitas tinggi yang akan membuat Anda menjadi pusat perhatian. Temukan kostum impian Anda hanya di 'Fashion Hub'!
                             </h2>
                         </div>
                     </div>
